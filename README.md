@@ -28,7 +28,7 @@ https://github.com/yaiconwithminsu/model/assets/88659167/dc58e9cd-e33d-402a-aa3d
 
 - **Adobe Podcast :** [https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)
 
-### 3. [**학습 전 데이터 정리**](diff-svc-colab/howtoruncolab.md) 
+### 3. [**학습 전 데이터 정리 프로세스**](diff-svc-colab/howtoruncolab.md) 
 > mp3 to wav
 
 > audio slice
