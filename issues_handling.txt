@@ -1,0 +1,25 @@
+코랩으로 할 때 경로 문제 피하기
+diff-svc git clone 경로 —> /content
+mydrive에 받으면 경로 문제 발생
+
+training resume시 유의사항 
+
+skip decompress dataset, pre-processiong
+
+preprocessed_data_location = /content/drive/Shareddrives/capstone/data/sikyung_binary_data.7z
+config_location = /content/drive/Shareddrives/capstone/checkpoint/config.yaml
+save_dir = /content/drive/Shareddrives/capstone/checkpoint
+ckpt_directory = /content/drive/Shareddrives/capstone/checkpoint/model_ckpt_steps_???.ckpt
+
+spec_min, max 문제
+/content/diff-svc/training/config_nsf.yaml
+ /content/drive/Shareddrives/capstone/checkpoint/config.yaml
+아래 기준으로 모델 사이즈 맞추기
+
+cuda out of memory 문제
+batch-size(max_sentences) 88에서 12로 줄이기
+
+FileNotFoundError:[Errno2] No such file or directory: ‘train_lengths.npy’ 
+1. binary.zip 파일 열어서 확인
+2. 없으면 preprocess 재진행
+3. 파일 save to gd 이후 로컬에 저장해두기
