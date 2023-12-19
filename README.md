@@ -4,6 +4,13 @@
 
 # Demo 
 
+### 주호민 버전 재즈
+<audio src="preview/장범준.mp3" controls preload="metadata"></audio>
+
+### 침착맨 버전 재즈 (Diff-SVC)
+<audio src="preview/잔나비.mp3" controls preload="metadata"></audio>
+
+
 ### 원본 버전
 https://github.com/voiceover-labs/voiceoverlabs/blob/main/preview/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%84%87%E1%85%B5.mp3
 
