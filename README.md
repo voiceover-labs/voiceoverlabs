@@ -8,7 +8,7 @@
 <audio src="preview/장범준.mp3" controls preload="metadata"></audio>
 
 ### 침착맨 버전 재즈 (Diff-SVC)
-<audio src="preview/잔나비.mp3" controls preload="metadata"></audio>
+https://github.com/voiceover-labs/voiceoverlabs/blob/main/preview/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%AE%E1%86%AB.mov
 
 잔나비 말하기 30분, 노래 부르기 데이터 30분으로 Diff-SVC 모델을 통해 학습, 
 
