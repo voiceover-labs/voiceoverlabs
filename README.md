@@ -10,13 +10,6 @@
 ### 침착맨 버전 재즈 (Diff-SVC)
 <audio src="preview/잔나비.mp3" controls preload="metadata"></audio>
 
-
-### 원본 버전
-https://github.com/voiceover-labs/voiceoverlabs/blob/main/preview/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%84%87%E1%85%B5.mp3
-
-### 잔나비 버전 (Diff-SVC)
-https://github.com/yaiconwithminsu/model/assets/88659167/dc58e9cd-e33d-402a-aa3d-8ae4b8cfb1e2
-
 잔나비 말하기 30분, 노래 부르기 데이터 30분으로 Diff-SVC 모델을 통해 학습, 
 
 원본 버전 음원을 잔나비 목소리 모델에 입힌 결과 
