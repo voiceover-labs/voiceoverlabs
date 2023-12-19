@@ -5,7 +5,7 @@
 # Demo 
 
 ### 원본 버전
-https://github.com/voiceover-labs/voiceoverlabs/blob/main/preview/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%84%87%E1%85%B5
+https://github.com/voiceover-labs/voiceoverlabs/blob/main/preview/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%84%87%E1%85%B5.mp3
 
 ### 잔나비 버전 (Diff-SVC)
 https://github.com/yaiconwithminsu/model/assets/88659167/dc58e9cd-e33d-402a-aa3d-8ae4b8cfb1e2
