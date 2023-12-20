@@ -10,6 +10,11 @@ https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/e3b29470-3413-4
 ### 잔나비 버전 (Diff-SVC)
 https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/fd0a039f-ed26-4b5c-8a19-55cf9d492d43
 
+### tts demo
+https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/a9371105-1f2c-4d8d-99e4-f53b2fbca778
+
+
+
 
 잔나비 말하기 30분, 노래 부르기 데이터 30분으로 Diff-SVC 모델을 통해 학습, 
 
