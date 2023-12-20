@@ -4,11 +4,12 @@
 
 # Demo 
 
-### 주호민 버전 재즈
-<audio src="preview/장범준.mp3" controls preload="metadata"></audio>
+### 장범준 버전
+https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/e3b29470-3413-47cb-9e7a-ae5b3f5d9de8
 
 ### 잔나비 버전 (Diff-SVC)
-[장범주 파일](https://github.com/voiceover-labs/voiceoverlabs/blob/main/preview/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%AE%E1%86%AB.mov)
+https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/fd0a039f-ed26-4b5c-8a19-55cf9d492d43
+
 
 잔나비 말하기 30분, 노래 부르기 데이터 30분으로 Diff-SVC 모델을 통해 학습, 
 
