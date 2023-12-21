@@ -4,10 +4,10 @@
 
 # Demo 
 
-### 장범준 버전
+### original
 https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/e3b29470-3413-47cb-9e7a-ae5b3f5d9de8
 
-### 잔나비 버전 (Diff-SVC)
+### synthetic (Diff-SVC)
 https://github.com/voiceover-labs/voiceoverlabs/assets/110355039/fd0a039f-ed26-4b5c-8a19-55cf9d492d43
 
 ### tts demo
